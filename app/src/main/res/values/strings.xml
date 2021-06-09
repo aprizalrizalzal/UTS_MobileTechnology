@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Order Food and Drink</string>
+    <string name="tab_drink">Drink</string>
+    <string name="tab_eat">Eat</string>
+    <string name="about">About</string>
+    <string name="buy">Buy</string>
+    <string name="share">Share</string>
+    <string name="share_text">Menu %s dengan harga Rp. %s</string>
+    <string name="buy_text">Menu %s bisa Anda Pesan di versi selanjutnya. Maaf ia untuk saat ini Aplikasi masih dalam pengembangan</string>
+    <string name="name">Muhamad Aprizal Hardi</string>
+    <string name="from">Kabupaten Lombok Tengah, Nusa Tenggara Barat</string>
+    <string name="invite">Bergabung sejak 14 Jun 2019</string>
+    <string name="xp">3279 XP</string>
+    <string name="show_profile">Tampilkan profil</string>
+    <string name="open_browser">Profile Akun dicoding</string>
+</resources>
